@@ -1,1 +1,2 @@
 A new text file 
+this is the second line 
